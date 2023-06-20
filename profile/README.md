@@ -1,4 +1,4 @@
-<h1 align="center">Heads up!</h1>
+<h1 align="center">!! Danger ahead !!</h1>
 
 A security vulnerablity have been brought to my attention, please refrain from using this plugin until this has been solved
 
